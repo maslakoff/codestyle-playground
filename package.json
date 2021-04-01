@@ -1,0 +1,23 @@
+{
+  "name": "codestyle-playground",
+  "version": "1.0.0",
+  "description": "Prettier + ESLint playground",
+  "main": "index.js",
+  "scripts": {
+    "prettify": "prettier --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maslakoff/codestyle-playground.git"
+  },
+  "keywords": [],
+  "author": "Ihar Maslakou <igormaslakoff@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maslakoff/codestyle-playground/issues"
+  },
+  "homepage": "https://github.com/maslakoff/codestyle-playground#readme",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
